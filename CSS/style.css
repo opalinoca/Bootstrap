@@ -1,0 +1,50 @@
+/*Gerais*/
+body {
+   font-family: 'Roboto', sans-serif;
+}
+
+.row {
+    margin: 0;
+}
+
+.container {
+    padding: 70% 0;
+}
+
+p, li {
+    color: black;
+    font-size: 14px;
+}
+
+/*Barra de navegação*/
+
+#logo {
+    width: 200px;
+}
+
+/*Slider*/
+
+.carousel-indicators {
+    padding: 0%;
+}
+
+#carouselExampleCaptions .carousel-inner, #carouselExampleCaptions .carousel-item {
+        height: 80vh;
+ }
+
+#carouselExampleCaptions .carousel-caption {
+    top: 30%;
+}
+#carouselExampleCaptions .carousel-inner h5 {
+    font-size: 45px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 30px;
+    color: black;
+}
+#carouselExampleCaptions .carousel-item p {
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400px;
+    margin-bottom: 100px;
+    color: white;
+}
